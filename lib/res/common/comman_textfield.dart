@@ -21,7 +21,7 @@ class CommanTextField extends StatelessWidget {
       this.color,
       this.fontWeight,
       this.labetlText,
-      this.labelcolor, });
+      this.labelcolor,  });
 
   @override
   Widget build(BuildContext context) {
